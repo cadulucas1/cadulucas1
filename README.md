@@ -1,11 +1,11 @@
-# 👩🏻‍💻 Larissa Kich
+# Carlos Eduardo
 
-**`Desenvolvedora FullStack`**
+**`Estudante de Programação`**
 
 Me chamo Carlos Eduardo De Lucas Gonzalez, tenho 19 anos e sou natural do Mato Grosso Do Sul. Concluí o ensino médio no CSDB. Atualmente, estou estou fazendo um curso Técnico de Desenvolvimento de sistemas no SENAC.
 
 <p align="left"> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/cadulucas1?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
